@@ -78,9 +78,3 @@ Working Account<br>[@anggibk](https://github.com/anggibk) | Most of my activitie
 <footer align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=All%20is%20well%20with%20data%20:)&textBg=false&fontColor=E4DABB&fontSize=26&desc=Thanks%20for%20visiting!%20Let's%20collaborate!&descAlign=50&descAlignY=84&descSize=17&section=footer" />
 </footer>
-
-<style>
-    table, header, footer {
-        width: 100%;
-    }
-</style>
